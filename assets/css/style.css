@@ -9,6 +9,9 @@ body {
     justify-content: center;
     height: 100%;
 }
+.h5 {
+color: white;
+}
 
 .modal-body img {
     margin-bottom: 10px;
