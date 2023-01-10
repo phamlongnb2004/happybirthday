@@ -2,9 +2,7 @@ function checkValid() {
     var input = document.getElementById("nhapngaysinh");
     if (input.value == "10/01/2006") {
 
-       showImage('./assets/texts/bongmai02.JPG');
-
-       showImage('./assets/texts/bongmai.txt');
+       showImage('./assets/texts/bmai.jpg');
     } else {
         alert("Ngày sinh không chính xác!");
     }
